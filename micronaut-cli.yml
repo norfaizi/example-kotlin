@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: example.kotlin
+---
+testFramework: spek
+sourceLanguage: kotlin
